@@ -1,0 +1,13 @@
+# RakBot + FachuBot Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+schedule>=1.2.0
+duckduckgo-search>=4.0.0
+python-dotenv>=1.0.0
+
+# Optional (FachuBot clipboard support)
+pyperclip>=1.8.0
